@@ -1,0 +1,13 @@
+tag,dataset,kernel,ms
+countbench,chess,v1,0.0261
+countbench,chess,v2,0.0123
+countbench,mushroom,v1,0.0440
+countbench,mushroom,v2,0.0122
+countbench,accidents,v1,1.8929
+countbench,accidents,v2,0.0360
+countbench,T10I4D100K,v1,0.1690
+countbench,T10I4D100K,v2,0.0158
+countbench,retail,v1,0.0872
+countbench,retail,v2,0.0224
+countbench,kosarak,v1,1.0751
+countbench,kosarak,v2,0.1730

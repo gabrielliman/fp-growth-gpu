@@ -1,0 +1,22 @@
+chess:0.6 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+chess:0.6 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+chess:0.6 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+mushroom:0.1 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+mushroom:0.1 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+mushroom:0.1 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+retail:0.002 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+retail:0.002 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+retail:0.002 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+T10I4D100K:0.002 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+T10I4D100K:0.002 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+T10I4D100K:0.002 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+kosarak:0.002 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+kosarak:0.002 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+kosarak:0.002 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+accidents:0.4 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+accidents:0.4 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+accidents:0.4 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+chess:0.5 grain=0 ok=20 timeout=0 erro_ou_diferenca=0
+chess:0.5 grain=256 ok=20 timeout=0 erro_ou_diferenca=0
+chess:0.5 grain=4096 ok=20 timeout=0 erro_ou_diferenca=0
+total=420 problemas=0

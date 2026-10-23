@@ -1,0 +1,12 @@
+/data/
+build/
+*.out
+__pycache__/
+results/tmp/
+paper/*.log
+paper/*.aux
+paper/*.xdv
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*

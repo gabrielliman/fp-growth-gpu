@@ -1,0 +1,14 @@
+gpu0,d2d_GBps,920.4
+gpu0,h2d_pageable_ms,1.4906
+gpu0,h2d_pageable_GBps,24.18
+gpu0,h2d_pinned_ms,1.3575
+gpu0,h2d_pinned_GBps,26.55
+gpu0,radix32_pairs_ms,0.2523
+gpu0,radix64_pairs_ms,0.6541
+gpu1,d2d_GBps,919.7
+gpu1,h2d_pageable_ms,6.0060
+gpu1,h2d_pageable_GBps,6.00
+gpu1,h2d_pinned_ms,5.6435
+gpu1,h2d_pinned_GBps,6.39
+gpu1,radix32_pairs_ms,0.2712
+gpu1,radix64_pairs_ms,0.4233
